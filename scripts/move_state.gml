@@ -19,6 +19,7 @@ if(!place_meeting(x, y + 1, Solid)){
     // Jumping code
     if(up){
         vspd = -16;
+        audio_play_sound(snd_jump, 5, false);
     }
     
     // player is on the ground
