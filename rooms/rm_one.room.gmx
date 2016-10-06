@@ -157,7 +157,6 @@
     <instance objName="Dirt" x="512" y="288" name="inst_63543CF0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Dirt" x="544" y="288" name="inst_5A2AAD6D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Dirt" x="576" y="288" name="inst_BF178657" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="PlayerStats" x="96" y="112" name="inst_B9194D34" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Entrance" x="44" y="240" name="inst_E3F46E68" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Dirt" x="64" y="288" name="inst_62C406B1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Dirt" x="96" y="288" name="inst_9CD84B43" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

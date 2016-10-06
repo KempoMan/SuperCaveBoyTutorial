@@ -49,6 +49,7 @@
   </sprites>
   <backgrounds name="background">
     <background>background\bg_dirt</background>
+    <background>background\bg_menu</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
@@ -78,6 +79,10 @@
       <script>scripts\spider_jump_state.gml</script>
     </scripts>
   </scripts>
+  <fonts name="fonts">
+    <font>fonts\fnt_title</font>
+    <font>fonts\fnt_start</font>
+  </fonts>
   <objects name="objects">
     <objects name="Player">
       <object>objects\Player</object>
@@ -101,6 +106,7 @@
     </objects>
   </objects>
   <rooms name="rooms">
+    <room>rooms\rm_menu</room>
     <room>rooms\rm_one</room>
     <room>rooms\rm_two</room>
     <room>rooms\rm_three</room>
@@ -111,7 +117,7 @@
     <rtf>help.rtf</rtf>
   </help>
   <TutorialState>
-    <IsTutorial>0</IsTutorial>
+    <IsTutorial>-1</IsTutorial>
     <TutorialName>C:\Users\Kempo\AppData\Local\gamemaker_studio\tutorials\06_Animation\</TutorialName>
     <TutorialPage>0</TutorialPage>
   </TutorialState>
