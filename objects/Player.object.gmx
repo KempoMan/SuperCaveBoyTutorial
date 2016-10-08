@@ -156,10 +156,12 @@ if(above_enemy &amp;&amp; (falling || state = ledge_grab_state)){
             <kind>1</kind>
             <string>/// Go to the next level
 if(up){
-    y = yprevious;
+    //y = yprevious;
     state = exit_state;
     audio_stop_sound(snd_jump);
-    audio_play_sound(snd_exit, 4, false);
+    if(!audio_is_playing(snd_exit)){
+        audio_play_sound(snd_exit, 4, false);
+    }
 }
 </string>
           </argument>

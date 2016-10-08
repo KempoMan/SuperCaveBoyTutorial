@@ -3,7 +3,7 @@ if(down){
     state = move_state;
 }
 
-if(up){
+if(jump){
     state = move_state;
     vspd = -16;
 }

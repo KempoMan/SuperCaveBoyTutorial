@@ -10,14 +10,14 @@ if(!place_meeting(x, y + 1, Solid)){
     image_index = vspd > 0;
     
     // Control the jump height
-    if(up_release && vspd < -6){
+    if(jumpRelease && vspd < -6){
         vspd = -6;
     }
 }else{
     vspd = 0;
     
     // Jumping code
-    if(up){
+    if(jump){
         vspd = -16;
         audio_play_sound(snd_jump, 5, false);
     }
