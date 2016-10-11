@@ -177,6 +177,11 @@
     <instance objName="Dirt" x="288" y="160" name="inst_27AB460C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Dirt" x="320" y="160" name="inst_B9F70A69" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Bat" x="320" y="208" name="inst_EFF45680" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Sapphire" x="272" y="304" name="inst_FD3C3245" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Sapphire" x="304" y="304" name="inst_E3DF172C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Sapphire" x="336" y="304" name="inst_E5C9092C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Sapphire" x="368" y="304" name="inst_1C080C32" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Sapphire" x="400" y="304" name="inst_31E749FF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
